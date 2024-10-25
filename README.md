@@ -6,6 +6,7 @@ Aws Events CodeFirstTypeSafety by ErikCH turns into frontend repo for Amplify Ge
 ```bash
 npx ampx generate outputs --branch main --app-id <your-backend-app-id>
 ```
+* During deployment the build settings need to be added with above command
 
 # Bootstrap Readme
 Next.js 14.2.16
