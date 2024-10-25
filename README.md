@@ -8,7 +8,7 @@ npx ampx generate outputs --branch main --app-id <your-backend-app-id>
 ```
 Alternatively for the backend output can be downloaded from the AWS Amplify console or use sandbox.
 
-* To use the amplify.yml during build (in Amplify gen 2 console), environment variable for BACKEND-APP-ID need to be set.
+* To use the amplify.yml during build (in Amplify gen 2 console), BACKEND-APP-ID need to be set.
 
 # Bootstrap Readme
 Next.js 14.2.16
