@@ -69,6 +69,7 @@ export default function NavBar({ isSignedIn, isAdmin }: { isSignedIn: boolean , 
         justifyContent="space-between"
         alignItems="center"
         padding={"1rem"}
+        backgroundColor={"blue.10"}
       >
         <Flex as="nav" alignItems="center" gap="3rem" margin="0 2rem">
           {routes.map((route) => (
