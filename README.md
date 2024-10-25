@@ -2,10 +2,11 @@
 ユーザー用フロントエンド
 Aws Events CodeFirstTypeSafety by ErikCH turns into frontend repo for Amplify Gen 2.
 
-* To access the backend output file
+* To access the backend output file in local 
 ```bash
 npx ampx generate outputs --branch main --app-id <your-backend-app-id>
 ```
+Alternatively for the backend output can be downloaded from the AWS Amplify console or use sandbox 
 
 # Bootstrap Readme
 Next.js 14.2.16
