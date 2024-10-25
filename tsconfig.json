@@ -19,7 +19,7 @@
     ],
     "paths": {
       "@/*": ["./*"],
-      "@/data-schema": ["../amplify-gen2-backend/amplify/data/resource"],
+      "@/data-schema": ["./resource"],
       "@/amplify-outputs": ["./amplify_outputs.json"],
     }
   },

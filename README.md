@@ -6,6 +6,7 @@ Aws Events CodeFirstTypeSafety by ErikCH turns into frontend repo for Amplify Ge
 ```bash
 npx ampx generate outputs --branch main --app-id <your-backend-app-id>
 ```
+* For data schema "resource file is needed"
 
 # Bootstrap Readme
 Next.js 14.2.16
